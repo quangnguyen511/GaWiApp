@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/DangQuang/.android/build-cache/7e62a9a5e69674b650bf262088747eb7a7b28ba4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/DangQuang/Documents/Android Project/GaWiApp/app/build/intermediates/pre-dexed/debug/classes_e63d9b88172af02187a6baf0b54d8ffc898a6466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DangQuang/.android/build-cache/07fd56efccfb9959cffb44c0714e367fdda52f6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dee40b4a01bb48be9ce0df9b5d17129ba41ccc47">
+        <dex dex="/Users/DangQuang/Documents/Android Project/GaWiApp/app/build/intermediates/pre-dexed/debug/classes_945a50f9fd468bbc0ddca61f8339d84af78be110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DangQuang/.android/build-cache/370df1078b03797383599648d691faafa13796f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/Users/DangQuang/Documents/Android Project/GaWiApp/app/build/intermediates/pre-dexed/debug/classes_494be0f5cbd1d950f42e8b7c5073f77e677fe207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DangQuang/.android/build-cache/9cd0037aa8a971f47fb26b7f94fdf25ca2ba2730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/DangQuang/Documents/Android Project/GaWiApp/app/build/intermediates/pre-dexed/debug/classes_62a73f3e2542c2185408bd59286feeb82bd98421.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DangQuang/.android/build-cache/b2d4e9c03ff7c1d9ed286d969cab01ce3398c955/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/DangQuang/Documents/Android Project/GaWiApp/app/build/intermediates/pre-dexed/debug/classes_c7a0cec41615c9e74a29b09be33ec2a31ed58c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DangQuang/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/DangQuang/Documents/Android Project/GaWiApp/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_8d837fe4e255491ce6ff4cc29401685cab8d6970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/DangQuang/.android/build-cache/367767a3d30331aea4139c5e0935faf152492524/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/DangQuang/Documents/Android Project/GaWiApp/app/build/intermediates/pre-dexed/debug/classes_cf8bf1dd41bdc1d5eed171228abaa0f5008ad3cb.jar" />
+    </item>
+
+</items>
