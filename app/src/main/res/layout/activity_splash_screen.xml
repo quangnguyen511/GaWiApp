@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -20,10 +21,22 @@
         android:layout_height="0dp"
         android:layout_weight="1"/>
 
-    <android.support.design.widget.TabLayout
+    <com.ogaclejapan.smarttablayout.SmartTabLayout
         android:id="@+id/actSplash_tlIndicator"
-        android:layout_width="match_parent"
-        android:layout_height="@dimen/toolbar_size"
-        android:layout_gravity="bottom"/>
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/_16dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/_10dp"
+        app:stl_clickable="false"
+        app:stl_customTabTextLayoutId="@layout/custom_tab_indicator"
+        app:stl_dividerColor="@color/transparent"
+        app:stl_dividerThickness="0dp"
+        app:stl_indicatorColor="@color/white"
+        app:stl_indicatorCornerRadius="4dp"
+        app:stl_indicatorGravity="center"
+        app:stl_indicatorInterpolation="linear"
+        app:stl_indicatorThickness="8dp"
+        app:stl_underlineColor="@color/transparent"
+        app:stl_underlineThickness="0dp"/>
 
 </LinearLayout>

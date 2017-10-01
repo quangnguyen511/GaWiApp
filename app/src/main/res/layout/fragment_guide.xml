@@ -5,6 +5,7 @@
           android:gravity="center"
           android:orientation="vertical"
           android:text="Hello!"
+          android:id="@+id/fragmentGuide_tvHello"
           android:textSize="@dimen/_30dp"
           android:textColor="@color/white"
     >

@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">GaWiApp</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <string name="category">Category</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="settings">Settings</string>
+    <string name="popular">Popular</string>
+    <string name="favorite">Favorite</string>
+    <string name="newest">Newest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
